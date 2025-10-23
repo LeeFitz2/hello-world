@@ -1,1 +1,2 @@
 This is stuff.
+This stuff was added on the command line.
